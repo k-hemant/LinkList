@@ -1,0 +1,91 @@
+.title{
+	font-family: 'Urbanist', sans-serif;
+	font-size:40;
+}
+
+.desc{
+	color:#636e72;
+	font-family: 'Urbanist', sans-serif;
+	font-size:20;
+}
+
+.by1{
+
+	font-family: 'Urbanist', sans-serif;
+	font-size:18;
+}
+
+.title1{
+	font-family: 'Urbanist', sans-serif;
+	font-size:30;
+}
+
+.footer{
+	font-family: 'Urbanist', sans-serif;
+	font-size:20;
+}
+
+.mid-content{
+font-family: 'Roboto Slab', serif;
+}
+
+.head1{
+	width:100%;
+	background-color:white;
+    top:0;
+	left:0;
+	right:0;
+	position:fixed;
+}
+
+.input{
+	  background-color: #ffeaa7;
+  border: none;
+  color: black;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+ font-family: 'Urbanist', sans-serif;
+  border-radius:5px;
+}
+
+
+.but{
+		  background-color: #2C3A47;
+  border: none;
+  color: white;
+  padding: 10px 90px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  margin: 4px 2px;
+  cursor: pointer;
+font-family: 'Urbanist', sans-serif;
+  border-radius:5px;	
+}
+
+.a{
+	text-decoration:none;
+	color:#2f3640;
+}
+
+.date{
+	color:#303952;
+		font-family: 'Urbanist', sans-serif;
+}   
+
+
+.link{
+	background-color:#ffeaa7;
+	font-family: 'Urbanist', sans-serif;
+	color:black;
+	font-size:20;
+	width:60%;
+	border-radius:10px;
+	
+}
